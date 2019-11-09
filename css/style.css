@@ -1306,7 +1306,7 @@ h1, h2, h3, h4, h5,
     font-size: 18px; }
     .products-view .heading a, .wine_h_1 .heading a {
       color: #000; }
-  .products-view .wine-actions, .wine_h_1 .wine-actions {
+  .products-view .actions, .wine_h_1 .actions {
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -1319,30 +1319,30 @@ h1, h2, h3, h4, h5,
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease; }
-    .products-view .wine-actions .heading-2, .wine_h_1 .wine-actions .heading-2 {
+    .products-view .actions .heading-2, .wine_h_1 .actions .heading-2 {
       font-size: 20px; }
-      .products-view .wine-actions .heading-2 a, .wine_h_1 .wine-actions .heading-2 a {
+      .products-view .actions .heading-2 a, .wine_h_1 .actions .heading-2 a {
         color: #000; }
-    .products-view .wine-actions .price, .wine_h_1 .wine-actions .price {
+    .products-view .actions .price, .wine_h_1 .actions .price {
       font-size: 20px;
       color: #930077;
       font-family: "Cinzel"; }
-      .products-view .wine-actions .price del, .wine_h_1 .wine-actions .price del {
+      .products-view .actions .price del, .wine_h_1 .actions .price del {
         color: #ccc; }
-    .products-view .wine-actions .rating, .wine_h_1 .wine-actions .rating {
+    .products-view .actions .rating, .wine_h_1 .actions .rating {
       margin-bottom: 20px; }
-      .products-view .wine-actions .rating span, .wine_h_1 .wine-actions .rating span {
+      .products-view .actions .rating span, .wine_h_1 .actions .rating span {
         font-size: 16px;
         color: #ffbd39; }
-    .products-view .wine-actions .btn, .wine_h_1 .wine-actions .btn {
+    .products-view .actions .btn, .wine_h_1 .actions .btn {
       background: #930077;
       color: #fff;
       padding: 10px 20px;
       border-radius: 0; }
-      .products-view .wine-actions .btn:hover, .wine_h_1 .wine-actions .btn:hover {
+      .products-view .actions .btn:hover, .wine_h_1 .actions .btn:hover {
         background: #60004e;
         color: #fff; }
-  .products-view:hover .wine-actions, .wine_h_1:hover .wine-actions, .products-view:focus .wine-actions, .wine_h_1:focus .wine-actions {
+  .products-view:hover .actions, .wine_h_1:hover .actions, .products-view:focus .actions, .wine_h_1:focus .actions {
     opacity: 1;
     visibility: visible; }
 
