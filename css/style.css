@@ -1346,16 +1346,16 @@ h1, h2, h3, h4, h5,
     opacity: 1;
     visibility: visible; }
 
-.hero-2 {
+.big-pic {
   background-size: cover;
   position: relative;
   background-attachment: fixed;
   background-position: center center; }
-  .hero-2 > .container .row {
+  .big-pic > .container .row {
     height: 50vh;
     min-height: 500px;
     z-index: 2; }
-  .hero-2:before {
+  .big-pic:before {
     content: "";
     position: absolute;
     height: 100%;
@@ -1368,7 +1368,7 @@ h1, h2, h3, h4, h5,
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; }
-  .hero-2 h2 {
+  .big-pic h2 {
     font-size: 5rem;
     font-weight: 300;
     color: #fff;
@@ -1376,18 +1376,18 @@ h1, h2, h3, h4, h5,
     font-weight: 900;
     text-transform: uppercase; }
     @media (max-width: 991.98px) {
-      .hero-2 h2 {
+      .big-pic h2 {
         font-size: 2rem; } }
-    .hero-2 h2 strong {
+    .big-pic h2 strong {
       font-weight: 700; }
-  .hero-2 .sub-title {
+  .big-pic .sub-title {
     font-family: "Cinzel";
     color: #fff;
     font-size: 1.5rem; }
-  .hero-2 p {
+  .big-pic p {
     color: #fff;
     font-size: 1.1rem; }
-    .hero-2 p a {
+    .big-pic p a {
       color: #fff;
       text-decoration: underline; }
 
